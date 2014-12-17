@@ -1,0 +1,3 @@
+libopenocd_la-startup_tcl.lo: startup_tcl.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
